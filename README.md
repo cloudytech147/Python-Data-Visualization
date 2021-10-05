@@ -10,7 +10,7 @@ For a Python facts scientist, it turns into very critical to study facts visuali
 
 ![Python Data Visualization](https://secureservercdn.net/160.153.137.163/84g.4be.myftpupload.com/wp-content/uploads/2020/11/Best-Python-Data-Visualization-Libraries-665x333.png)
 
-## List of [Data Visualization in Python](https://www.techgeekbuzz.com/best-python-data-visualization-libraries/)
+## List of [Data Visualization in Python](https://bit.ly/3oGYq94)
 
 # Matplotlib
 ![Matplotlib](https://secureservercdn.net/160.153.137.163/84g.4be.myftpupload.com/wp-content/uploads/2019/06/Matplotlib.png)
